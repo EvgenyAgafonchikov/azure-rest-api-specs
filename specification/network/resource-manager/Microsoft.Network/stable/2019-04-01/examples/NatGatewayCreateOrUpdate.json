@@ -5,6 +5,7 @@
     "resourceGroupName": "rg1",
     "natGatewayName": "test-natgateway",
     "parameters": {
+      "location": "westus",
       "properties": {
         "publicIpAddresses": [
           {

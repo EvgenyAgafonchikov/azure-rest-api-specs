@@ -20,7 +20,7 @@
                 {
                   "name": "myDelegation",
                   "properties": {
-                    "serviceName": "Microsoft.Provider/resourceType"
+                    "serviceName": "Microsoft.Sql/servers"
                   }
                 }
               ]
@@ -58,7 +58,7 @@
                     "id": "/subscriptions/subId/resourceGroups/rg1/providers/Microsoft.Network/virtualNetworks/test-vnet/subnets/test-1/delegations/myDelegation",
                     "properties": {
                       "provisioningState": "Succeeded",
-                      "serviceName": "Microsoft.Provider/resourceType",
+                      "serviceName": "Microsoft.Sql/servers",
                       "actions": []
                     }
                   }
@@ -97,7 +97,7 @@
                     "id": "/subscriptions/subId/resourceGroups/rg1/providers/Microsoft.Network/virtualNetworks/test-vnet/subnets/test-1/delegations/myDelegation",
                     "properties": {
                       "provisioningState": "Succeeded",
-                      "serviceName": "Microsoft.Provider/resourceType",
+                      "serviceName": "Microsoft.Sql/servers",
                       "actions": []
                     }
                   }
